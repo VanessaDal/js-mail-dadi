@@ -1,0 +1,6 @@
+#container {
+  display: none;
+  background-color: turquoise;
+  width: 50%;
+  min-height: 50%;
+}
